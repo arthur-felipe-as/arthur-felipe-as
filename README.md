@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arthur-felipe-as
-- 🌱 I’m currently an undergraduate in computer sciencie ...
+- 🌱 I’m currently an undergraduate in computer sciencie
 - 📫 How to reach me: arthur.f.andrade.s@gmail.com
 - 😄 Pronouns: he/him
 
