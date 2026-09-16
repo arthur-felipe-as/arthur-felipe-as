@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arthur-felipe-as
-- 🌱 I’m currently an undergraduate in computer science
-- 📫 How to reach me: arthur.f.andrade.s@gmail.com
-- 😄 Pronouns: he/him
+<h1> Welcome </h1>  
+I'm a computer science student at UFRN. I'm interested in discrete mathematics, data science and game development. I also have experience in web development. <br>
+I'm an english and portuguese speaker, you can contact me at: arthur.f.andrade.s@gmail.com <br>
+I have experience in the following languages: C/C++, Java, Python, R, HTML, CSS and JavaScript. <br>
 
 
 <!---
